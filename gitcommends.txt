@@ -1,0 +1,7 @@
+1 - git clone <repo>
+2 - git add file
+3 - git status
+4 - git commit -m "title message" -m "description message"
+5 - git push
+
+// 25:55
